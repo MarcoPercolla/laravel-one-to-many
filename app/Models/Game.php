@@ -14,4 +14,9 @@ class Game extends Model
         "description",
         "thumb",
     ];
+
+    public function category()
+    {
+        return $this->belongsTo(Category::class);
+    }
 }
