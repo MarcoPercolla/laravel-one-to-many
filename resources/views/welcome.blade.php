@@ -21,7 +21,7 @@
 
 <div class="content">
     <div class="container">
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora temporibus, dicta nemo aliquam totam nisi deserunt soluta quas voluptatum ab beatae praesentium necessitatibus minus, facilis illum rerum officiis accusamus dolores!</p>
+        <p>The Database consist in a "games" table connected in a relation one(category) to many(games) with a "categories" table.</p>
     </div>
 </div>
 @endsection
